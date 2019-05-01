@@ -1,5 +1,8 @@
 _repo: Adelt-vildt-En-familjehistoria_59341
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59341-h/images/cover.jpg
 creator:
   author:
     agent_name: Kuylenstierna-Wenster, Elisabeth
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Elisabeth_Kuylenstierna-Wenster
     - https://sv.wikipedia.org/wiki/Elisabeth_Kuylenstierna-Wenster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59341#Adelt-vildt-En-familjehistoria
 gutenberg_issued: '2019-04-24'
 gutenberg_type: Text
 identifiers:
