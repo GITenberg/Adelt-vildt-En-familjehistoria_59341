@@ -1,0 +1,27 @@
+_repo: Adelt-vildt-En-familjehistoria_59341
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kuylenstierna-Wenster, Elisabeth
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '49796'
+    url: http://www.gutenberg.org/2009/agents/49796
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Elisabeth_Kuylenstierna-Wenster
+    - https://sv.wikipedia.org/wiki/Elisabeth_Kuylenstierna-Wenster
+description: ''
+gutenberg_issued: '2019-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59341'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ädelt vildt
+
+  En familjehistoria'
+url: http://www.gutenberg.org/ebooks/59341
